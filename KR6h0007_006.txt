@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:06:17.259602
+#+DATE: 2015-08-30 20:06:20.266706
 #+TITLE: 阿差末菩薩經
 #+PROPERTY: CBETA_ID T13n0403
 #+PROPERTY: ID KR6h0007
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 13, No. 403
 #+PROPERTY: VOL 13
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6h0007_T_006-0604c> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 6
 ¶
 ¶
-
- 《阿差末菩薩經》卷第六¶
+《阿差末菩薩經》卷第六¶
 ¶
 西晉月氏國三藏竺法護譯¶
 
@@ -208,8 +207,7 @@
 厭此。觀身寂然，將至一定令修靜默，當觀¶
 身空，無想、無願，便歸澹泊清淨本際。
 
-「彼自¶
-觀身、觀他人身，無所慕樂，不計堅固，知不長¶
+「彼自觀身、觀他人身，無所慕樂，不計堅固，知不長¶
 存。察內身行，不復聽從內諸塵勞、愛欲之患；¶
 又觀外身未曾得與外塵俱合。身無勞穢，所¶
 行清淨；身以清淨然後遂致像好體嚴；身像¶
