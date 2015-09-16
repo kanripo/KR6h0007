@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 阿差末菩薩經
+#+DATE: 2015-08-30 20:06:17.554224
+#+PROPERTY: JUAN 0
